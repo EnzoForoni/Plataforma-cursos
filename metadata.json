@@ -1,6 +1,0 @@
-{
-  "name": "Plataforma de Cursos",
-  "description": "Plataforma profissional estilo Udemy/Hotmart em tema escuro para transformar playlists do YouTube em cursos com acompanhamento de progresso e anotações.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
